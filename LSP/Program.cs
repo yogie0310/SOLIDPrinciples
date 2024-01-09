@@ -66,7 +66,7 @@
     {
         public override void Add()
         {
-            //throw new NotImplementedException();
+            // code to add members to databse
         }
         public override int GetTraining()
         {
@@ -77,8 +77,8 @@
     public class GoldMembership : Membership
     {
         public override void Add()
-        { 
-            //throw new NotImplementedException(); 
+        {
+            // code to add members to databse
         }
         public override int GetTraining()
         {
